@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'carrierwave'
 gem 'fog-aws'
 gem 'mini_magick'
+gem "react_on_rails", "~> 7"
 group :development do
   gem 'listen', '~> 3.0.5'
   gem 'spring'
